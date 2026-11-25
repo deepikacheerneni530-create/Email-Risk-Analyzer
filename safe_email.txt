@@ -1,0 +1,12 @@
+From: Team Updates <updates@example.com>
+To: User <user@example.org>
+Subject: Weekly Newsletter
+
+Hello,
+
+Here is your weekly newsletter with updates about our community activities.
+
+You can review the latest announcements whenever you have time.
+
+Thank you,
+Team Updates

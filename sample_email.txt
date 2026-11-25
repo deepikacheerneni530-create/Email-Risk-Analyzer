@@ -1,0 +1,19 @@
+From: Security Support <security@example.com>
+To: User <user@example.org>
+Subject: Urgent: Your account will be suspended
+Return-Path: <suspicious@example.net>
+Received: from unknown-host.example.net
+Authentication-Results: example.org; spf=fail; dkim=fail
+
+Dear User,
+
+Your account will be suspended today!
+You must verify your account immediately.
+You have only 10 minutes to take action.
+Click the link below to verify your account:
+http://login-example.invalid/verify
+
+If you do not act immediately, your account will be blocked.
+
+Thank you,
+Security Support Team
